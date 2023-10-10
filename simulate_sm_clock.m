@@ -2,7 +2,7 @@ function results = simulate_sm_clock(varargin)
 
 % Copyright (C) 2016 Alex Johnson-Buck
 %
-% Simulates a single-molecule clock comprising a linear reaction pathway
+% Simulates single-molecule clocks comprising a linear reaction pathway
 % containing an arbitrary number of steps (N).  The steps can be irreversible
 % (k2 = 0) or reversible (k2 > 0).
 % As described in Johnson-Buck and Shih, Nano Lett. 2017, 17, 12, 7940–7944.
