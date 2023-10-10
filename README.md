@@ -6,7 +6,6 @@ Kinetic Monte Carlo simulation of single-molecule clocks as described in Johnson
 Simulates single-molecule clocks comprising a linear reaction pathway
 containing an arbitrary number of steps (N).  The steps can be irreversible
 (k2 = 0) or reversible (k2 > 0).
-As described in Johnson-Buck and Shih, Nano Lett. 2017, 17, 12, 7940–7944.
 
 The Gillespie algorithm for kinetic Monte Carlo simulation is used.
 
